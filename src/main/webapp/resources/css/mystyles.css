@@ -1,0 +1,43 @@
+h1, table {
+    text-align: center;
+}
+
+.search {
+    margin: 30px 0;
+}
+
+input[type=number], input[type=text]{
+    width: 250px;
+}
+
+input[type=checkbox], input[type=radio]{
+    margin: 0 20px;
+}
+
+.left, .right {
+    margin: 15% 0;
+}
+
+.center {
+    margin-top: 10px;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+thead {
+    background-color: #f0c300;
+}
+
+.filters {
+    padding-left: 30%;
+}
+
+.addForm {
+    padding-left: 10%;
+}
